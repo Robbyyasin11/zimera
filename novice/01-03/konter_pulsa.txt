@@ -1,0 +1,21 @@
+Konter pulsa
+- id konter pulsa
+- alamat konter pulsa
+- nomor telepon
+- Reseller
+- stock
+
+
+Permintaan konter pulsa
+- id Reseller
+- Nama Reseller
+- Harga Reseller
+- nomor telepon Reseller
+- Alamat Reseller
+
+
+Stock konter pulsa
+- id stock
+- nama stock
+- jumlah stock
+- tanggal beli stock
